@@ -1,4 +1,4 @@
 #browser options: Chrome or Firefox
-email = 'Tassomai email'
-password = 'Tassomai password'
+email = '23mdirsche@student.amigs.uk'
+password = 'Amigs2023'
 browser = 'Firefox'
